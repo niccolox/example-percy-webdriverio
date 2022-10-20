@@ -1,7 +1,5 @@
 const percySnapshot = require('@percy/webdriverio');
 var common = require('../helper/common');
-// const helpers = require('@percy/sdk-utils/test/helpers');
-// const percySnapshot = require('../index.js');
 
 // visit / root
 
