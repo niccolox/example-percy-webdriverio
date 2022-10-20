@@ -117,6 +117,8 @@ snapshots on the right.
 Percy has highlighted what's changed visually in the app! Snapshots with the largest changes are
 shown first You can click on the highlight to reveal the underlying screenshot.
 
+# Force Build
+
 If you scroll down, you'll see that no other test cases were impacted by our changes to the 'Clear
 completed' button. The unchanged snapshots appear grouped together at the bottom of the list.
 
